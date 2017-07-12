@@ -9,3 +9,5 @@ Options:
 - -h, --help                    show this help message and exit
 - -c CONF_FILE, --conf=CONF_FILE  Fortigate Extracted Configuration File
 - -o CSVFILE, --output=CSVFILE  Output CSV filename
+
+Report any bugs to [bugs.github@invadersam.com](bugs.github@invadersam.com)
